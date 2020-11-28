@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Fluttedddr Demo',
+      title: 'Fluttedddr ssdsd',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
